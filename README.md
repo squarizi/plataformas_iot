@@ -7,10 +7,16 @@
 [[Plataforma]](https://knot.cesar.org.br/)
 [[Repositório]](https://github.com/CESARBR?utf8=%E2%9C%93&q=knot)
 
+- :heavy_check_mark: Open Source
+
+Um ponto de filtro é ser open source, não ter pagamento por sensor e poder rodar On premise
+
 ### Dojot
 
 [[Plataforma]](http://www.dojot.com.br/documentacao-para-desenvolvimento-iot/)
 [[Repositório]](https://github.com/dojot)
+
+- :heavy_check_mark: Open Source
 
 ## Comunidade Internacional
 
@@ -23,6 +29,8 @@
 
 [[Plataforma]](https://thingsboard.io/)
 [[Repositório]](https://github.com/thingsboard/thingsboard)
+
+- :heavy_check_mark: Open Source
 
 ### Thinger.io
 
