@@ -8,7 +8,7 @@
 [[Repositório]](https://github.com/CESARBR?utf8=%E2%9C%93&q=knot)
 
 Open Source | On Premise | Sensores Ilimitados
-:------------ | :-------------| :-------------
+:------------: | :-------------: | :-------------:
 :heavy_check_mark: | :x: | :x:
 
 ### Dojot
@@ -17,7 +17,7 @@ Open Source | On Premise | Sensores Ilimitados
 [[Repositório]](https://github.com/dojot)
 
 Open Source | On Premise | Sensores Ilimitados
-:------------ | :-------------| :-------------
+:------------: | :-------------: | :-------------:
 :heavy_check_mark: | :x: | :x:
 
 ## Comunidade Internacional
@@ -33,7 +33,7 @@ Open Source | On Premise | Sensores Ilimitados
 [[Repositório]](https://github.com/thingsboard/thingsboard)
 
 Open Source | On Premise | Sensores Ilimitados
-:------------ | :-------------| :-------------
+:------------: | :-------------: | :-------------:
 :heavy_check_mark: | :x: | :x:
 
 ### Thinger.io
