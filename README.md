@@ -38,6 +38,13 @@ Open Source | On Premise | Sensores Ilimitados
 :------------: | :-------------: | :-------------:
 :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
 
+* Escalável :arrow_up:
+
+* Comunidade Fraca :arrow_down:
+* Dificil Manutenção :arrow_down:
+
+* Lingugem: Scala e Python
+
 ---
 
 ### ThingsBoard
@@ -49,6 +56,14 @@ Open Source | On Premise | Sensores Ilimitados
 :------------: | :-------------: | :-------------:
 :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
 
+* Possui suporte pago e comunidade ativa :arrow_up:
+* Planos gratuitos e/ou pagos :arrow_up:
+* Possui alguns modulos, faceis de se desconectar p/ ligar outros serviços e necessário :arrow_up:
+
+* Por ser um projeto de arquitetura Monolítica, pode apresentar problemas p/ escalar performance :arrow_down:
+
+* Linguagem: Java
+
 ---
 
 ### Thinger.io
@@ -59,6 +74,15 @@ Open Source | On Premise | Sensores Ilimitados
 Open Source | On Premise | Sensores Ilimitados
 :------------: | :-------------: | :-------------:
 :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
+
+* Possui diversos plugins ja desenvolvidos :arrow_up:
+* Comunidade muito ativa p/ tirar dúvidas :arrow_up:
+* Totalmente Gratuita :arrow_up:
+
+* Não possui suporte, apenas comunidade :arrow_down:
+* Poucos contribuidores nos repositórios :arrow_down:
+
+* Linguagem: C++, JavaScript(Plugins), Java(Android Client)
 
 ---
 
@@ -97,8 +121,12 @@ Open Source | On Premise | Sensores Ilimitados
 :------------: | :-------------: | :-------------:
 :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
 
-* Precififcação por sensor
-* Possui plano enterprise com valor fixo
+* Possui plano enterprise com valor fixo :arrow_up:
+* Possui contribuidores ativos :arrow_up:
+
+* POssui planos de precificação por sensor e enterprise que possui sensores ilimitados :arrow_right:
+
+* Linguagem: Java
 
 ---
 
@@ -111,8 +139,8 @@ Open Source | On Premise | Sensores Ilimitados
 :------------: | :-------------: | :-------------:
 :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
 
-* Totalmente Gratuita
-* Não possui suporte, apenas comunidade
+* Totalmente Gratuita :arrow_up:
+* Não possui suporte, apenas comunidade :arrow_down:
 
 ---
 
@@ -125,9 +153,10 @@ Open Source | On Premise | Sensores Ilimitados
 :------------: | :-------------: | :-------------:
 :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
 
-* Não possui suporte, apenas comunidade
-* Visa ser embeded de outras aplicações
-* Promete robustes p/ arquiteturas de eventos
+* Visa ser embeded de outras aplicações :arrow_right:
+
+* Não possui suporte, apenas comunidade :arrow_down:
+* Promete robustes p/ arquiteturas de eventos :arrow_up:
 
 ---
 
@@ -140,11 +169,12 @@ Open Source | On Premise | Sensores Ilimitados
 :------------: | :-------------: | :-------------:
 :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
 
-* Totalmente gratuita
-* Não possui suporte, apenas comunidade
-* Linguagem: Java
-* Arquitetura baseada em MicroServiços
+* Totalmente gratuita :arrow_up:
+* Arquitetura baseada em MicroServiços :arrow_up:
 
+* Não possui suporte, apenas comunidade :arrow_down:
+
+* Linguagem: Java
 * Ponto de atenção: Verificar a Manutenção do repositório
 * Ponto Positivo: Possui muitos `forks`, sinal que pode ter várias vertentes sendo modeladas.
 
@@ -159,7 +189,7 @@ Open Source | On Premise | Sensores Ilimitados
 :------------: | :-------------: | :-------------:
 :heavy_check_mark: | :x: | :heavy_check_mark:
 
-* Teria grande dificuldade de tornar a solução On premise
+* Teria grande esforço de tornar a solução On premise
 
 **Descartado**
 
